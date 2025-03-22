@@ -328,7 +328,7 @@ header {
 	}
 	
 	.concept-center, .work-center, .florist-center, .information-center, .information-about, .contact-center, .footer-center, footer {
-    	max-width: 780px;
+    		max-width: 780px;
 	}
 	
 	
@@ -338,7 +338,7 @@ header {
 	}
 	
 	.header-left p {
-    	font-size: 50px;
+    		font-size: 50px;
 	}
 	
 	.header-right{
@@ -346,8 +346,8 @@ header {
 	}
 	
 	.fa-bars {
-    	margin-top: 8px;
-    	font-size: 35px;
+    		margin-top: 8px;
+    		font-size: 35px;
 	}
 	
 	.header-title h1{
@@ -372,7 +372,7 @@ header {
 	
 	.information-content{
 		width: 50%;
-    	margin-right: 2%;
+    		margin-right: 2%;
 	}
 	
 	.information-content img {
@@ -380,7 +380,7 @@ header {
 	}
 	
 	.address {
-    	padding-right: 52px;
+    		padding-right: 52px;
 	}
 
 }
@@ -403,11 +403,11 @@ header {
 	}
 	
 	.concept-center, .work-center, .florist-center, .information-center, .information-about, .contact-center, .footer-center, footer {
-    	max-width: 350px;
+    		max-width: 350px;
 	}
 	
 	.concept-center h2,.work-center h2,.florist-center h2,.information-center h2,.contact-center h2{
-	font-size: 30px;
+		font-size: 30px;
 	}
 	
 	.work-about-left h3,.work-about-right h3,.florist-content h3{
@@ -430,7 +430,7 @@ header {
 	}
 	
 	.header-left p {
-    	font-size: 36px;
+    		font-size: 36px;
 	}	
 	
 	.header-title h1{
@@ -462,7 +462,7 @@ header {
 	.concept-color {
 		width: 85%;
 		height: 174px;
-		top: 700px;
+		top: 706px;
 		left: 8px;
 	}
 	
@@ -477,11 +477,11 @@ header {
 	}
 	
 	.work-about-left {
-    margin-right: 0;
+    		margin-right: 0;
 	}
 	
 	.work-about-left img {
-    	height: 350px;
+    		height: 350px;
 		margin-bottom: 0;
 	}
 
@@ -491,7 +491,7 @@ header {
 	}
 	
 	.work-about-right {
-    	margin-top: 0;
+    		margin-top: 0;
 	}
 	
 	.work-about-right img {
@@ -510,7 +510,7 @@ header {
 	
 	/*Floristここから*/
 	.florist-center p{
-		margin-top: 8px;
+		margin-top: 2px;
 		margin-bottom: 24px;
 	}
 	
@@ -519,7 +519,7 @@ header {
 	}
 	
 	.florist-content {
-    	margin-right: 0;
+    		margin-right: 0;
 	}
 	
 	.florist-content img{
@@ -527,7 +527,7 @@ header {
 	}
 	
 	.florist-content p {
-    	margin-bottom: 40px;
+    		margin-bottom: 40px;
 	}
 	
 	/*Shop informationここから*/
@@ -541,7 +541,7 @@ header {
 	}
 	
 	.information-about {
-    	display: block;
+    		display: block;
 		margin-bottom: 80px;
 	}
 	
@@ -559,11 +559,11 @@ header {
 	}
 	
 	.address {
-    	padding-right: 48px;
+    		padding-right: 48px;
 	}
 	
 	.info-border {
-    	height: 44px;
+    		height: 44px;
 	}
 	
 	/*Contact usここから*/
